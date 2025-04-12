@@ -1,0 +1,1 @@
+let holamundo:string="hola mundo"
